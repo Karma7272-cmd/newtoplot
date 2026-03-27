@@ -1,0 +1,7 @@
+{
+  "name": "Remix: newtoplot",
+  "description": "Professional Neural Intelligence Platform for Real-time Object Recognition and Automated Video Analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
